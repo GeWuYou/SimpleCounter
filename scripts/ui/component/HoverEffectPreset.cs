@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     悬停效果预设档位，用于快速区分主按钮、次按钮和工具按钮的反馈强度。

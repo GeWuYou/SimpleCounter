@@ -2,11 +2,11 @@
 
 This document is the single source of truth for coding behavior in this repository.
 
-All AI agents and contributors must follow these rules when writing, reviewing, or modifying code in `GFramework-Godot-Template`.
+All AI agents and contributors must follow these rules when writing, reviewing, or modifying code in `SimpleCounter`.
 
 ## Project Structure
 
-This is a Godot 4.6 C# template project targeting `net10.0` through `Godot.NET.Sdk/4.6.2`. Main project files live at the repository root: `project.godot`, `GFramework-Godot-Template.sln`, and `GFramework-Godot-Template.csproj`.
+This is a Godot 4.6 C# template project targeting `net10.0` through `Godot.NET.Sdk/4.6.2`. Main project files live at the repository root: `project.godot`, `SimpleCounter.sln`, and `SimpleCounter.csproj`.
 
 - `scripts/` contains C# gameplay, framework integration, CQRS handlers, UI controllers, settings, data, and utilities.
 - `global/` contains autoload scenes and scripts such as `GameEntryPoint`, `SceneRoot`, `UiRoot`, and audio/input managers.
@@ -24,7 +24,7 @@ This is a Godot 4.6 C# template project targeting `net10.0` through `Godot.NET.S
 - Use `res://` for bundled read-only template content and `user://` for writable runtime data. Do not design new template config flows that require mutating `res://` after export.
 - Assume exported builds cannot reliably enumerate or read YAML/schema files directly from `res://` as normal filesystem directories. When `source_root_path` is `res://` outside the editor, the runtime path is expected to fall back through the bundled-file synchronization path into `user://config_cache`.
 - When adding new template config or schema files, keep the pipeline aligned end to end: source files under `config/` or `schemas/`, project registration/source-generator metadata updated, and assembly embedding preserved so exported builds can reconstruct the runtime cache.
-- `GFramework-Godot-Template.csproj` intentionally embeds `config/**/*.yaml`, `config/**/*.yml`, and `schemas/**/*.json`. Do not move template-owned config/schema files outside those globs unless the build packaging and runtime cache loader are updated in the same change.
+- `SimpleCounter.csproj` intentionally embeds `config/**/*.yaml`, `config/**/*.yml`, and `schemas/**/*.json`. Do not move template-owned config/schema files outside those globs unless the build packaging and runtime cache loader are updated in the same change.
 - Localization-sensitive template content currently resolves language variants from the content catalog, but language changes do not automatically rebuild the config registry. If a new template feature depends on language-specific config data after a runtime language switch, wire an explicit content-catalog reload and then refresh the affected presentation layer.
 - The current language mapping expectation in template content is `en` fallback plus `zh-cn` for Chinese. If you expand that mapping, update both the runtime selection logic and the contributor documentation in the same change.
 
@@ -54,7 +54,7 @@ This is a Godot 4.6 C# template project targeting `net10.0` through `Godot.NET.S
 ## Coding Style And Naming
 
 - Use UTF-8 files. C# nullable reference types are enabled and the project uses preview language features.
-- Prefer existing namespaces under `GFrameworkGodotTemplate.scripts.*` and keep new files close to the feature they implement.
+- Prefer existing namespaces under `SimpleCounter.scripts.*` and keep new files close to the feature they implement.
 - Follow the repository naming rules: variables use lower camel case; private constants use `UPPER_SNAKE_CASE`; non-private constants use PascalCase to satisfy the analyzer enforced in this repository; folders/files use lowercase snake_case for Godot assets and scenes.
 - C# types remain PascalCase, matching existing files such as `SceneRouter.cs` and `OpenPauseMenuCommandHandler.cs`.
 - Keep comments meaningful. Explain intent, lifecycle assumptions, engine constraints, and non-obvious behavior instead of restating syntax.

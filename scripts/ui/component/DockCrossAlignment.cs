@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     切换按钮在交叉轴上的对齐方式。

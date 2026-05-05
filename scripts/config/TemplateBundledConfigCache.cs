@@ -3,7 +3,7 @@ using System.Reflection;
 using Godot;
 using FileAccess = Godot.FileAccess;
 
-namespace GFrameworkGodotTemplate.scripts.config;
+namespace SimpleCounter.scripts.config;
 
 /// <summary>
 ///     Synchronizes bundled YAML and schema files to a runtime-readable cache.

@@ -1,9 +1,9 @@
-using GFrameworkGodotTemplate.scripts.config;
-using GFrameworkGodotTemplate.scripts.core.ui;
-using GFrameworkGodotTemplate.scripts.enums.ui;
+using SimpleCounter.scripts.config;
+using SimpleCounter.scripts.core.ui;
+using SimpleCounter.scripts.enums.ui;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.credits;
+namespace SimpleCounter.scripts.credits;
 
 [ContextAware]
 [Log]

@@ -4,7 +4,7 @@ using GFramework.Core.Coroutine;
 using GFramework.Godot.Coroutine;
 using Godot;
 
-namespace GFrameworkGodotTemplate.global;
+namespace SimpleCounter.global;
 
 /// <summary>
 ///     场景过渡管理器，负责处理场景之间的平滑过渡效果。

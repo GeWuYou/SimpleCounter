@@ -11,10 +11,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.enums.resources;
+using SimpleCounter.scripts.enums.resources;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.core.resource;
+namespace SimpleCounter.scripts.core.resource;
 
 /// <summary>
 ///     预制体场景配置资源，用于注册运行时实例化的 PackedScene。

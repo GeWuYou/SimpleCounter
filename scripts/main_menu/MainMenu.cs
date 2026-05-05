@@ -1,13 +1,13 @@
-using GFrameworkGodotTemplate.scripts.config;
-using GFrameworkGodotTemplate.scripts.core.state.impls;
-using GFrameworkGodotTemplate.scripts.core.ui;
-using GFrameworkGodotTemplate.scripts.cqrs.game.command;
-using GFrameworkGodotTemplate.scripts.cqrs.menu.command;
-using GFrameworkGodotTemplate.scripts.credits;
-using GFrameworkGodotTemplate.scripts.enums.ui;
+using SimpleCounter.scripts.config;
+using SimpleCounter.scripts.core.state.impls;
+using SimpleCounter.scripts.core.ui;
+using SimpleCounter.scripts.cqrs.game.command;
+using SimpleCounter.scripts.cqrs.menu.command;
+using SimpleCounter.scripts.credits;
+using SimpleCounter.scripts.enums.ui;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.main_menu;
+namespace SimpleCounter.scripts.main_menu;
 
 /// <summary>
 ///     主菜单控制器类，继承自Control并实现IController、IUiPageBehaviorProvider和ISimpleUiPage接口

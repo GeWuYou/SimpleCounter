@@ -1,13 +1,13 @@
-using GFrameworkGodotTemplate.scripts.config;
-using GFrameworkGodotTemplate.scripts.core.state.impls;
-using GFrameworkGodotTemplate.scripts.core.ui;
-using GFrameworkGodotTemplate.scripts.cqrs.game.command;
-using GFrameworkGodotTemplate.scripts.cqrs.menu.command;
-using GFrameworkGodotTemplate.scripts.cqrs.pause_menu.command.input;
-using GFrameworkGodotTemplate.scripts.enums.ui;
+using SimpleCounter.scripts.config;
+using SimpleCounter.scripts.core.state.impls;
+using SimpleCounter.scripts.core.ui;
+using SimpleCounter.scripts.cqrs.game.command;
+using SimpleCounter.scripts.cqrs.menu.command;
+using SimpleCounter.scripts.cqrs.pause_menu.command.input;
+using SimpleCounter.scripts.enums.ui;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.pause_menu;
+namespace SimpleCounter.scripts.pause_menu;
 
 [ContextAware]
 [Log]

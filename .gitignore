@@ -24,7 +24,7 @@ mono_crash.*.json
 # .Net
 **/bin/
 **/obj/
-GFramework-Godot-Template.sln.DotSettings.user
+SimpleCounter.sln.DotSettings.user
 addons/*
 !addons/.editorconfig
 .addons/*

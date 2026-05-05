@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.core.localization;
+namespace SimpleCounter.scripts.core.localization;
 
 /// <summary>
 ///     Localized text source tables available in the template.

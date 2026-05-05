@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     右侧停靠动画面板。

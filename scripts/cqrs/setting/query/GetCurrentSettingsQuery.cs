@@ -11,9 +11,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.cqrs.setting.query.view;
+using SimpleCounter.scripts.cqrs.setting.query.view;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.setting.query;
+namespace SimpleCounter.scripts.cqrs.setting.query;
 
 /// <summary>
 ///     获取当前设置信息的查询命令

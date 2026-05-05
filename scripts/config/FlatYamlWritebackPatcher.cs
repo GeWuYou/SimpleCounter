@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.config;
+namespace SimpleCounter.scripts.config;
 
 /// <summary>
 ///     Provides value writeback for flat top-level YAML while preserving comments and grouping.

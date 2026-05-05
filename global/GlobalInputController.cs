@@ -1,11 +1,11 @@
-using GFrameworkGodotTemplate.scripts.core.controller;
-using GFrameworkGodotTemplate.scripts.core.state.impls;
-using GFrameworkGodotTemplate.scripts.cqrs.game.command;
-using GFrameworkGodotTemplate.scripts.cqrs.pause_menu.command.input;
-using GFrameworkGodotTemplate.scripts.enums;
+using SimpleCounter.scripts.core.controller;
+using SimpleCounter.scripts.core.state.impls;
+using SimpleCounter.scripts.cqrs.game.command;
+using SimpleCounter.scripts.cqrs.pause_menu.command.input;
+using SimpleCounter.scripts.enums;
 using Godot;
 
-namespace GFrameworkGodotTemplate.global;
+namespace SimpleCounter.global;
 
 /// <summary>
 ///     全局输入控制器类，继承自 GameInputController。

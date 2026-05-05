@@ -1,6 +1,6 @@
-using GFrameworkGodotTemplate.scripts.module;
+using SimpleCounter.scripts.module;
 
-namespace GFrameworkGodotTemplate.scripts.core;
+namespace SimpleCounter.scripts.core;
 
 /// <summary>
 ///     游戏架构类，负责安装和管理游戏所需的各种模块

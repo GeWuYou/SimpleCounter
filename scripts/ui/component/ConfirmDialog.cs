@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     通用确认弹窗，统一处理项目内确认/取消类交互。

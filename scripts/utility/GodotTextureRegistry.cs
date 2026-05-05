@@ -13,7 +13,7 @@
 
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.utility;
+namespace SimpleCounter.scripts.utility;
 
 /// <summary>
 ///     GodotTextureRegistry 类继承自 KeyValueRegistryBase 并实现 IGodotTextureRegistry 接口。

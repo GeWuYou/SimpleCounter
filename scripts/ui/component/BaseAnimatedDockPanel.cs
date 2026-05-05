@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     停靠动画面板基类，负责挂载内容面板、管理切换按钮和播放展开收起动画。

@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     兼容旧场景的通用停靠动画面板。

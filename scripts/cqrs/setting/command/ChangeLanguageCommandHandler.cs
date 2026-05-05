@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.cqrs.setting.command;
+namespace SimpleCounter.scripts.cqrs.setting.command;
 
 /// <summary>
 ///     更改语言命令处理器

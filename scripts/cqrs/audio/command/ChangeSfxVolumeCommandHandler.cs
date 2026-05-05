@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.cqrs.audio.command;
+namespace SimpleCounter.scripts.cqrs.audio.command;
 
 /// <summary>
 ///     更改音效音量命令处理器

@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     通用选项浏览器的数据项，负责描述一条可筛选、可分页的配置记录。

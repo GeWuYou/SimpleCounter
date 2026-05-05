@@ -12,7 +12,7 @@
 // limitations under the License.
 
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.scene.events;
+namespace SimpleCounter.scripts.cqrs.scene.events;
 
 /// <summary>
 ///     场景根节点就绪事件

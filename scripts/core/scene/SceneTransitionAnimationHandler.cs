@@ -11,11 +11,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.enums.scene;
-using global::GFrameworkGodotTemplate.global;
+using SimpleCounter.scripts.enums.scene;
+using global::SimpleCounter.global;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.core.scene;
+namespace SimpleCounter.scripts.core.scene;
 
 /// <summary>
 ///     场景过渡动画处理器，将 SceneTransitionManager 的过渡效果接入管道。

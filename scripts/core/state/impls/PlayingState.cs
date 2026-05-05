@@ -1,6 +1,6 @@
-using GFrameworkGodotTemplate.scripts.tests;
+using SimpleCounter.scripts.tests;
 
-namespace GFrameworkGodotTemplate.scripts.core.state.impls;
+namespace SimpleCounter.scripts.core.state.impls;
 
 /// <summary>
 ///     游戏进行中状态

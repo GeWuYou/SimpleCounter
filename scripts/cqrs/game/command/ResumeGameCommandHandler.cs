@@ -1,6 +1,6 @@
-﻿using GFrameworkGodotTemplate.scripts.core.state.impls;
+﻿using SimpleCounter.scripts.core.state.impls;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.game.command;
+namespace SimpleCounter.scripts.cqrs.game.command;
 
 /// <summary>
 ///     恢复游戏命令处理器

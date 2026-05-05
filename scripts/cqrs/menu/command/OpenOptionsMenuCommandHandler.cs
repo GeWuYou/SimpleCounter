@@ -1,6 +1,6 @@
-﻿using GFrameworkGodotTemplate.scripts.options_menu;
+﻿using SimpleCounter.scripts.options_menu;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.menu.command;
+namespace SimpleCounter.scripts.cqrs.menu.command;
 
 /// <summary>
 ///     打开选项菜单命令处理器

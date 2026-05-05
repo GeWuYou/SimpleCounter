@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.config;
+namespace SimpleCounter.scripts.config;
 
 /// <summary>
 ///     Owns the template process configuration registry lifecycle.

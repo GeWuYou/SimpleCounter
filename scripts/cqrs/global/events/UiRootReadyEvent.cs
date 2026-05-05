@@ -12,7 +12,7 @@
 // limitations under the License.
 
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.global.events;
+namespace SimpleCounter.scripts.cqrs.global.events;
 
 /// <summary>
 ///     UI根节点就绪事件

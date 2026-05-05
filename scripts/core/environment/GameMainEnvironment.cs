@@ -1,4 +1,4 @@
-﻿namespace GFrameworkGodotTemplate.scripts.core.environment;
+﻿namespace SimpleCounter.scripts.core.environment;
 
 /// <summary>
 ///     游戏主环境类，继承自EnvironmentBase

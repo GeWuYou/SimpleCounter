@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.config;
+namespace SimpleCounter.scripts.config;
 
 /// <summary>
 ///     Loads and exposes static template content configuration.

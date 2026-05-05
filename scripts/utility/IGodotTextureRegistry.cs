@@ -13,6 +13,6 @@
 
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.utility;
+namespace SimpleCounter.scripts.utility;
 
 public interface IGodotTextureRegistry : IAssetRegistry<Texture>;

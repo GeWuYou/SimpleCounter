@@ -18,8 +18,8 @@ using GFramework.Game.Abstractions.Scene;
 using GFramework.Godot.Scene;
 using GFramework.SourceGenerators.Abstractions.Logging;
 using GFramework.SourceGenerators.Abstractions.Rule;
-using GFrameworkGodotTemplate.scripts.core.scene;
-using GFrameworkGodotTemplate.scripts.enums.scene;
+using SimpleCounter.scripts.core.scene;
+using SimpleCounter.scripts.enums.scene;
 using Godot;
 
 [ContextAware]

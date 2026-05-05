@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.core.localization;
+namespace SimpleCounter.scripts.core.localization;
 
 /// <summary>
 ///     共享本地化文本更新逻辑，统一处理变量、订阅与安全刷新。

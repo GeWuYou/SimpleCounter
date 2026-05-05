@@ -1,8 +1,8 @@
-using GFrameworkGodotTemplate.scripts.core.scene;
-using GFrameworkGodotTemplate.scripts.enums.scene;
+using SimpleCounter.scripts.core.scene;
+using SimpleCounter.scripts.enums.scene;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.tests;
+namespace SimpleCounter.scripts.tests;
 
 /// <summary>
 ///     主页场景控制器类

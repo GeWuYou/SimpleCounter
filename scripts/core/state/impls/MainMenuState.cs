@@ -1,6 +1,6 @@
-using GFrameworkGodotTemplate.scripts.main_menu;
+using SimpleCounter.scripts.main_menu;
 
-namespace GFrameworkGodotTemplate.scripts.core.state.impls;
+namespace SimpleCounter.scripts.core.state.impls;
 
 /// <summary>
 ///     主菜单状态

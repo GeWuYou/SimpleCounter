@@ -11,9 +11,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.cqrs.graphics.command.input;
+using SimpleCounter.scripts.cqrs.graphics.command.input;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.graphics.command;
+namespace SimpleCounter.scripts.cqrs.graphics.command;
 
 /// <summary>
 ///     切换全屏模式命令类

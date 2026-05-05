@@ -14,7 +14,7 @@ permissions:
 
 env:
   GODOT_VERSION: 4.6.1
-  EXPORT_NAME: GFrameworkGodotTemplate
+  EXPORT_NAME: SimpleCounter
 
 jobs:
   build-release-assets-linux-windows:

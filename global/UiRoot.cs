@@ -1,7 +1,7 @@
-using GFrameworkGodotTemplate.scripts.cqrs.global.events;
+using SimpleCounter.scripts.cqrs.global.events;
 using Godot;
 
-namespace GFrameworkGodotTemplate.global;
+namespace SimpleCounter.global;
 
 /// <summary>
 ///     UI画布层根节点，用于管理UI页面的添加和组织

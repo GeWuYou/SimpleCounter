@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace>GFramework_Godot_Template.Tests</RootNamespace>
+    <RootNamespace>SimpleCounter.Tests</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>false</IsPackable>
@@ -31,7 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\GFramework-Godot-Template.csproj" />
+    <ProjectReference Include="..\..\SimpleCounter.csproj" />
   </ItemGroup>
 
 </Project>

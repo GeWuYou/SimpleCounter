@@ -11,7 +11,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-namespace GFrameworkGodotTemplate.scripts.data.model;
+namespace SimpleCounter.scripts.data.model;
 
 /// <summary>
 ///     表示本地数据位置的实现类，实现了IDataLocation接口

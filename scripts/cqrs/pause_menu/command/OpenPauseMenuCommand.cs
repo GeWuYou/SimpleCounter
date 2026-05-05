@@ -11,9 +11,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.cqrs.pause_menu.command.input;
+using SimpleCounter.scripts.cqrs.pause_menu.command.input;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.pause_menu.command;
+namespace SimpleCounter.scripts.cqrs.pause_menu.command;
 
 /// <summary>
 ///     打开暂停菜单命令类，用于表示打开暂停菜单的指令

@@ -4,7 +4,7 @@ using GFramework.Core.Utility;
 using GFramework.SourceGenerators.Abstractions.Logging;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.core.ui;
+namespace SimpleCounter.scripts.core.ui;
 
 /// <summary>
 /// UI工厂类，用于创建和实例化UI页面

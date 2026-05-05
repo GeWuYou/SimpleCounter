@@ -1,7 +1,7 @@
 using System.IO;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.config;
+namespace SimpleCounter.scripts.config;
 
 /// <summary>
 ///     Provides Godot project-setting paths for template content configuration.

@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     停靠面板的动画预设。

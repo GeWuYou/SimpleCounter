@@ -9,10 +9,10 @@ using GFramework.Godot.Coroutine;
 using GFramework.Godot.UI;
 using GFramework.SourceGenerators.Abstractions.Logging;
 using GFramework.SourceGenerators.Abstractions.Rule;
-using GFrameworkGodotTemplate.scripts.constants;
-using GFrameworkGodotTemplate.scripts.core.ui;
-using GFrameworkGodotTemplate.scripts.enums.ui;
-using GFrameworkGodotTemplate.global;
+using SimpleCounter.scripts.constants;
+using SimpleCounter.scripts.core.ui;
+using SimpleCounter.scripts.enums.ui;
+using SimpleCounter.global;
 
 
 [ContextAware]

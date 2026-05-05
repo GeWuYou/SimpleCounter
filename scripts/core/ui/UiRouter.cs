@@ -1,6 +1,6 @@
 using LoggingTransitionHandler = GFramework.Game.UI.Handler.LoggingTransitionHandler;
 
-namespace GFrameworkGodotTemplate.scripts.core.ui;
+namespace SimpleCounter.scripts.core.ui;
 
 /// <summary>
 ///     UI路由类，提供页面栈管理功能

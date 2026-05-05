@@ -1,9 +1,9 @@
 using System.Reflection;
-using GFrameworkGodotTemplate.scripts.config;
+using SimpleCounter.scripts.config;
 using Godot;
 using Godot.Collections;
 
-namespace GFrameworkGodotTemplate.scripts.core.localization;
+namespace SimpleCounter.scripts.core.localization;
 
 /// <summary>
 ///     Applies a group of localized text bindings to node properties and refreshes them on language changes.

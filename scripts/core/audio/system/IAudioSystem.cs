@@ -11,9 +11,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using global::GFrameworkGodotTemplate.global;
+using global::SimpleCounter.global;
 
-namespace GFrameworkGodotTemplate.scripts.core.audio.system;
+namespace SimpleCounter.scripts.core.audio.system;
 
 /// <summary>
 ///     音频系统接口

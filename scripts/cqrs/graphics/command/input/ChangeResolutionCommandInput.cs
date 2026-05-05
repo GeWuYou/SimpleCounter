@@ -11,7 +11,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.graphics.command.input;
+namespace SimpleCounter.scripts.cqrs.graphics.command.input;
 
 /// <summary>
 ///     分辨率更改命令输入类，用于传递分辨率更改所需的参数

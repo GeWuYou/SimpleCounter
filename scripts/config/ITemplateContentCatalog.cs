@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.config;
+namespace SimpleCounter.scripts.config;
 
 public interface ITemplateContentCatalog : IUtility
 {

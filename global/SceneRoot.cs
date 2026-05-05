@@ -1,7 +1,7 @@
-using GFrameworkGodotTemplate.scripts.cqrs.scene.events;
+using SimpleCounter.scripts.cqrs.scene.events;
 using Godot;
 
-namespace GFrameworkGodotTemplate.global;
+namespace SimpleCounter.global;
 
 /// <summary>
 ///     场景根节点类

@@ -1,7 +1,7 @@
 using System.Globalization;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     可复用的选项浏览容器，支持查询、分类过滤、分页与滚动浏览。

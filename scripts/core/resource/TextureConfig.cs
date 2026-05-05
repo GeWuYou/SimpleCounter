@@ -11,10 +11,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.enums.resources;
+using SimpleCounter.scripts.enums.resources;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.core.resource;
+namespace SimpleCounter.scripts.core.resource;
 
 /// <summary>
 ///     TextureConfig 类用于配置纹理资源，实现 IKeyValue 接口以提供键值对访问。

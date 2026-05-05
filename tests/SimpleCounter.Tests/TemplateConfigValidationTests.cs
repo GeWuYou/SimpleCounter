@@ -1,9 +1,9 @@
 using GFramework.Game.Abstractions.Config;
 using GFramework.Game.Config;
 using GFramework.Game.Config.Generated;
-using GFrameworkGodotTemplate.scripts.config;
+using SimpleCounter.scripts.config;
 
-namespace GFramework_Godot_Template.Tests;
+namespace SimpleCounter.Tests;
 
 public sealed class TemplateConfigValidationTests
 {

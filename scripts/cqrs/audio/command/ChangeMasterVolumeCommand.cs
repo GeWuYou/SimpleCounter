@@ -1,6 +1,6 @@
-﻿using GFrameworkGodotTemplate.scripts.cqrs.audio.command.input;
+﻿using SimpleCounter.scripts.cqrs.audio.command.input;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.audio.command;
+namespace SimpleCounter.scripts.cqrs.audio.command;
 
 /// <summary>
 ///     更改主音量命令类

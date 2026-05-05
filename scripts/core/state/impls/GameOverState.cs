@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.core.state.impls;
+namespace SimpleCounter.scripts.core.state.impls;
 
 /// <summary>
 ///     表示游戏结束状态的类。

@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     浏览器内候选值的数据描述。

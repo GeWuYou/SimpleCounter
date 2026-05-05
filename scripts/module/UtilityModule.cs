@@ -1,13 +1,13 @@
 using GFramework.Core.Pause;
 using GFramework.Godot.Pause;
-using GFrameworkGodotTemplate.global;
-using GFrameworkGodotTemplate.scripts.config;
-using GFrameworkGodotTemplate.scripts.data;
-using GFrameworkGodotTemplate.scripts.data.model;
-using GFrameworkGodotTemplate.scripts.utility;
+using SimpleCounter.global;
+using SimpleCounter.scripts.config;
+using SimpleCounter.scripts.data;
+using SimpleCounter.scripts.data.model;
+using SimpleCounter.scripts.utility;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.module;
+namespace SimpleCounter.scripts.module;
 
 /// <summary>
 ///     工具模块类，负责安装和管理游戏中的实用工具组件

@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.ui.component;
+namespace SimpleCounter.scripts.ui.component;
 
 /// <summary>
 ///     组合式按钮悬停效果组件，可递归为目标节点下的按钮接入轻量缩放反馈。

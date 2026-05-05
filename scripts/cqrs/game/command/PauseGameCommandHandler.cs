@@ -11,9 +11,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.core.state.impls;
+using SimpleCounter.scripts.core.state.impls;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.game.command;
+namespace SimpleCounter.scripts.cqrs.game.command;
 
 /// <summary>
 ///     暂停游戏命令处理器类，负责处理暂停游戏的命令逻辑

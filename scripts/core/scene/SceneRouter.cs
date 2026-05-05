@@ -11,11 +11,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using global::GFrameworkGodotTemplate.global;
+using global::SimpleCounter.global;
 using Godot;
 using LoggingTransitionHandler = GFramework.Game.Scene.Handler.LoggingTransitionHandler;
 
-namespace GFrameworkGodotTemplate.scripts.core.scene;
+namespace SimpleCounter.scripts.core.scene;
 
 /// <summary>
 ///     场景路由器类，负责管理游戏场景的切换和路由功能

@@ -1,4 +1,4 @@
-﻿namespace GFrameworkGodotTemplate.scripts.core.scene;
+﻿namespace SimpleCounter.scripts.core.scene;
 
 /// <summary>
 ///     简单场景接口

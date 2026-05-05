@@ -11,9 +11,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.enums.scene;
+using SimpleCounter.scripts.enums.scene;
 
-namespace GFrameworkGodotTemplate.scripts.core.state.impls;
+namespace SimpleCounter.scripts.core.state.impls;
 
 /// <summary>
 ///     表示启动状态的类，继承自 ContextAwareStateBase。

@@ -1,6 +1,6 @@
-﻿using GFrameworkGodotTemplate.scripts.cqrs.pause_menu.command;
+﻿using SimpleCounter.scripts.cqrs.pause_menu.command;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.game.command;
+namespace SimpleCounter.scripts.cqrs.game.command;
 
 /// <summary>
 ///     恢复游戏并关闭暂停菜单命令处理器

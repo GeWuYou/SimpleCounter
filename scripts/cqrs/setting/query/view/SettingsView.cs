@@ -12,7 +12,7 @@
 // limitations under the License.
 
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.setting.query.view;
+namespace SimpleCounter.scripts.cqrs.setting.query.view;
 
 /// <summary>
 ///     表示游戏设置视图的数据模型，包含音频和显示设置信息

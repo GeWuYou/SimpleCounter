@@ -20,9 +20,9 @@ global using System.Threading;
 global using System.Threading.Tasks;
 
 // 全局导入GFramework
-global using GFrameworkGodotTemplate.scripts.constants;
-global using GFrameworkGodotTemplate.scripts.core.audio.system;
-global using GFrameworkGodotTemplate.scripts.enums.audio;
+global using SimpleCounter.scripts.constants;
+global using SimpleCounter.scripts.core.audio.system;
+global using SimpleCounter.scripts.enums.audio;
 global using GFramework.Cqrs;
 global using GFramework.Cqrs.Cqrs.Command;
 global using GFramework.Cqrs.Cqrs.Notification;

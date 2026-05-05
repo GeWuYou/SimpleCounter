@@ -1,6 +1,6 @@
-﻿using GFrameworkGodotTemplate.scripts.data.model;
+﻿using SimpleCounter.scripts.data.model;
 
-namespace GFrameworkGodotTemplate.scripts.data.interfaces;
+namespace SimpleCounter.scripts.data.interfaces;
 
 /// <summary>
 ///     定义游戏存档存储工具的接口，提供存档的基本操作功能

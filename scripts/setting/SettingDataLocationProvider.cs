@@ -11,9 +11,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.data.model;
+using SimpleCounter.scripts.data.model;
 
-namespace GFrameworkGodotTemplate.scripts.setting;
+namespace SimpleCounter.scripts.setting;
 
 public class SettingDataLocationProvider : IDataLocationProvider
 {

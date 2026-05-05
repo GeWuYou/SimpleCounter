@@ -11,7 +11,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-namespace GFrameworkGodotTemplate.scripts.enums.resources;
+namespace SimpleCounter.scripts.enums.resources;
 
 /// <summary>
 ///     定义运行时预制体资源键。

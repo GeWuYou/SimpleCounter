@@ -13,7 +13,7 @@
 
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.utility;
+namespace SimpleCounter.scripts.utility;
 
 /// <summary>
 ///     预制体场景注册表接口。

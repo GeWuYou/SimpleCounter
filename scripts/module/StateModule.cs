@@ -1,6 +1,6 @@
-using GFrameworkGodotTemplate.scripts.core.state.impls;
+using SimpleCounter.scripts.core.state.impls;
 
-namespace GFrameworkGodotTemplate.scripts.module;
+namespace SimpleCounter.scripts.module;
 
 /// <summary>
 ///     状态模块类，负责安装和注册游戏状态系统

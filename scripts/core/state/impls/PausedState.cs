@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.core.state.impls;
+namespace SimpleCounter.scripts.core.state.impls;
 
 /// <summary>
 ///     表示一个暂停状态的实现类，继承自 ContextAwareStateBase。

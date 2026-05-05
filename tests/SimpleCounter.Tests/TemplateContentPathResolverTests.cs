@@ -1,7 +1,7 @@
 using System.Reflection;
-using GFrameworkGodotTemplate.scripts.config;
+using SimpleCounter.scripts.config;
 
-namespace GFramework_Godot_Template.Tests;
+namespace SimpleCounter.Tests;
 
 public sealed class TemplateContentPathResolverTests
 {

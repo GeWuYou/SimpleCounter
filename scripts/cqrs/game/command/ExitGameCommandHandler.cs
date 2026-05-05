@@ -11,10 +11,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.core.utils;
+using SimpleCounter.scripts.core.utils;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.game.command;
+namespace SimpleCounter.scripts.cqrs.game.command;
 
 /// <summary>
 ///     退出游戏命令处理器类，负责处理退出游戏的命令逻辑

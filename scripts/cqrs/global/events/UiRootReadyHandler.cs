@@ -11,11 +11,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.core.state.impls;
-using GFrameworkGodotTemplate.scripts.core.utils;
-using GFrameworkGodotTemplate.scripts.enums.scene;
+using SimpleCounter.scripts.core.state.impls;
+using SimpleCounter.scripts.core.utils;
+using SimpleCounter.scripts.enums.scene;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.global.events;
+namespace SimpleCounter.scripts.cqrs.global.events;
 
 /// <summary>
 ///     UI根节点就绪事件处理器

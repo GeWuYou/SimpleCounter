@@ -1,6 +1,6 @@
-﻿using GFrameworkGodotTemplate.scripts.cqrs.graphics.command.input;
+﻿using SimpleCounter.scripts.cqrs.graphics.command.input;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.graphics.command;
+namespace SimpleCounter.scripts.cqrs.graphics.command;
 
 /// <summary>
 ///     更改分辨率命令类

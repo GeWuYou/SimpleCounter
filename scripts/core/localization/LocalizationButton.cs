@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.core.localization;
+namespace SimpleCounter.scripts.core.localization;
 
 /// <summary>
 ///     本地化 Button 组件

@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.global;
+namespace SimpleCounter.global;
 
 [ContextAware]
 [Log]

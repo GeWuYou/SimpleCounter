@@ -1,4 +1,4 @@
-﻿namespace GFrameworkGodotTemplate.scripts.constants;
+﻿namespace SimpleCounter.scripts.constants;
 
 public static class GameConstants
 {

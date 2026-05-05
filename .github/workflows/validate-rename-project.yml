@@ -46,14 +46,14 @@ jobs:
           test -f "$SMOKE_PROJECT_NAME.csproj"
           test -d "tests/$SMOKE_PROJECT_NAME.Tests"
           test -f "tests/$SMOKE_PROJECT_NAME.Tests/$SMOKE_PROJECT_NAME.Tests.csproj"
-          test ! -e "GFramework-Godot-Template.sln"
-          test ! -e "GFramework-Godot-Template.csproj"
-          test ! -e "tests/GFramework-Godot-Template.Tests"
+          test ! -e "SimpleCounter.sln"
+          test ! -e "SimpleCounter.csproj"
+          test ! -e "tests/SimpleCounter.Tests"
           test ! -e "rename_project.sh"
           test ! -e "rename_project.ps1"
           test ! -e "rename_project.config"
           test ! -e ".github/workflows/validate-rename-project.yml"
-          if grep -R -n -E 'GFramework-Godot-Template|GFrameworkGodotTemplate|GFramework_Godot_Template\.Tests' . \
+          if grep -R -n -E 'SimpleCounter|SimpleCounter|GFramework_Godot_Template\.Tests' . \
             --exclude-dir=.godot \
             --exclude-dir=.git \
             --exclude-dir=.idea \
@@ -124,9 +124,9 @@ jobs:
           }
 
           $forbiddenPaths = @(
-              "GFramework-Godot-Template.sln",
-              "GFramework-Godot-Template.csproj",
-              "tests/GFramework-Godot-Template.Tests",
+              "SimpleCounter.sln",
+              "SimpleCounter.csproj",
+              "tests/SimpleCounter.Tests",
               "rename_project.sh",
               "rename_project.ps1",
               "rename_project.config",
@@ -140,7 +140,7 @@ jobs:
 
           $oldNameMatches = Get-ChildItem -Path . -File -Recurse |
               Where-Object { $_.FullName -notmatch '[\\/](\.godot|\.git|\.idea|\.vscode|\.mono|bin|obj)[\\/]' } |
-              Select-String -Pattern 'GFramework-Godot-Template', 'GFrameworkGodotTemplate', 'GFramework_Godot_Template\.Tests'
+              Select-String -Pattern 'SimpleCounter', 'SimpleCounter', 'GFramework_Godot_Template\.Tests'
 
           if ($oldNameMatches) {
               $oldNameMatches | ForEach-Object { Write-Host $_ }

@@ -1,6 +1,6 @@
-using GFrameworkGodotTemplate.scripts.setting;
+using SimpleCounter.scripts.setting;
 
-namespace GFrameworkGodotTemplate.scripts.module;
+namespace SimpleCounter.scripts.module;
 
 /// <summary>
 ///     ModelModule 类用于在架构中安装和注册模型。

@@ -1,6 +1,6 @@
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.core.localization;
+namespace SimpleCounter.scripts.core.localization;
 
 /// <summary>
 ///     Describes one localized text assignment from a content table to a node property.

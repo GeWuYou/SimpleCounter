@@ -1,7 +1,7 @@
-using GFrameworkGodotTemplate.scripts.core.scene;
-using GFrameworkGodotTemplate.scripts.core.ui;
+using SimpleCounter.scripts.core.scene;
+using SimpleCounter.scripts.core.ui;
 
-namespace GFrameworkGodotTemplate.scripts.module;
+namespace SimpleCounter.scripts.module;
 
 /// <summary>
 ///     系统Godot模块类，负责安装和注册游戏所需的各种系统组件

@@ -12,7 +12,7 @@
 // limitations under the License.
 
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.audio.events;
+namespace SimpleCounter.scripts.cqrs.audio.events;
 
 /// <summary>
 ///     音效播放事件

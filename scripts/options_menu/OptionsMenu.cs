@@ -1,13 +1,13 @@
-using GFrameworkGodotTemplate.scripts.config;
-using GFrameworkGodotTemplate.scripts.core.ui;
-using GFrameworkGodotTemplate.scripts.cqrs.setting.query;
-using GFrameworkGodotTemplate.scripts.cqrs.setting.query.view;
-using GFrameworkGodotTemplate.scripts.enums.ui;
-using GFrameworkGodotTemplate.scripts.ui.component;
+using SimpleCounter.scripts.config;
+using SimpleCounter.scripts.core.ui;
+using SimpleCounter.scripts.cqrs.setting.query;
+using SimpleCounter.scripts.cqrs.setting.query.view;
+using SimpleCounter.scripts.enums.ui;
+using SimpleCounter.scripts.ui.component;
 using Godot;
-using VolumeContainer = GFrameworkGodotTemplate.scripts.ui.component.VolumeContainer;
+using VolumeContainer = SimpleCounter.scripts.ui.component.VolumeContainer;
 
-namespace GFrameworkGodotTemplate.scripts.options_menu;
+namespace SimpleCounter.scripts.options_menu;
 
 /// <summary>
 ///     选项设置界面控制器。

@@ -1,9 +1,9 @@
-using GFrameworkGodotTemplate.scripts.core.ui;
-using GFrameworkGodotTemplate.scripts.enums.scene;
-using GFrameworkGodotTemplate.scripts.enums.ui;
+using SimpleCounter.scripts.core.ui;
+using SimpleCounter.scripts.enums.scene;
+using SimpleCounter.scripts.enums.ui;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.tests;
+namespace SimpleCounter.scripts.tests;
 
 [ContextAware]
 [Log]

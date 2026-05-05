@@ -11,7 +11,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.game.command;
+namespace SimpleCounter.scripts.cqrs.game.command;
 
 /// <summary>
 ///     暂停游戏命令类，用于表示暂停游戏的指令

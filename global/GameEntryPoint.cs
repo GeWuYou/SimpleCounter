@@ -1,13 +1,13 @@
-using GFrameworkGodotTemplate.scripts.core;
-using GFrameworkGodotTemplate.scripts.core.environment;
-using GFrameworkGodotTemplate.scripts.core.resource;
-using GFrameworkGodotTemplate.scripts.core.state.impls;
-using GFrameworkGodotTemplate.scripts.enums.scene;
-using GFrameworkGodotTemplate.scripts.utility;
+using SimpleCounter.scripts.core;
+using SimpleCounter.scripts.core.environment;
+using SimpleCounter.scripts.core.resource;
+using SimpleCounter.scripts.core.state.impls;
+using SimpleCounter.scripts.enums.scene;
+using SimpleCounter.scripts.utility;
 using Godot;
 using Godot.Collections;
 
-namespace GFrameworkGodotTemplate.global;
+namespace SimpleCounter.global;
 
 /// <summary>
 ///     游戏入口点节点类，负责初始化游戏架构和管理全局游戏状态

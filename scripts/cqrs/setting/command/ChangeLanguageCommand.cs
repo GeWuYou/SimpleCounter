@@ -1,6 +1,6 @@
-﻿using GFrameworkGodotTemplate.scripts.cqrs.setting.command.input;
+﻿using SimpleCounter.scripts.cqrs.setting.command.input;
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.setting.command;
+namespace SimpleCounter.scripts.cqrs.setting.command;
 
 /// <summary>
 ///     更改语言命令类

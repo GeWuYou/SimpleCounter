@@ -1,9 +1,9 @@
-using GFrameworkGodotTemplate.scripts.core.state.impls;
-using GFrameworkGodotTemplate.scripts.enums.resources;
-using GFrameworkGodotTemplate.scripts.utility;
+using SimpleCounter.scripts.core.state.impls;
+using SimpleCounter.scripts.enums.resources;
+using SimpleCounter.scripts.utility;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.intro;
+namespace SimpleCounter.scripts.intro;
 
 [ContextAware]
 [Log]

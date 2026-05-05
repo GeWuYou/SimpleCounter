@@ -1,4 +1,4 @@
-# GFramework-Godot-Template
+# SimpleCounter
 
 
 

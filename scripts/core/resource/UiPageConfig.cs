@@ -1,7 +1,7 @@
-﻿using GFrameworkGodotTemplate.scripts.enums.ui;
+﻿using SimpleCounter.scripts.enums.ui;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.core.resource;
+namespace SimpleCounter.scripts.core.resource;
 
 /// <summary>
 ///     UI场景配置资源类，用于存储UI界面的键值和对应的场景资源

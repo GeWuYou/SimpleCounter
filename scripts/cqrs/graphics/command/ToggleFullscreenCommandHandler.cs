@@ -12,7 +12,7 @@
 // limitations under the License.
 
 
-namespace GFrameworkGodotTemplate.scripts.cqrs.graphics.command;
+namespace SimpleCounter.scripts.cqrs.graphics.command;
 
 /// <summary>
 ///     切换全屏模式命令处理器类

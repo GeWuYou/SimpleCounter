@@ -1,4 +1,4 @@
-namespace GFrameworkGodotTemplate.scripts.cqrs.setting.command;
+namespace SimpleCounter.scripts.cqrs.setting.command;
 
 /// <summary>
 ///     保存游戏设置命令处理器

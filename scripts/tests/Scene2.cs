@@ -11,11 +11,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using GFrameworkGodotTemplate.scripts.core.scene;
-using GFrameworkGodotTemplate.scripts.enums.scene;
+using SimpleCounter.scripts.core.scene;
+using SimpleCounter.scripts.enums.scene;
 using Godot;
 
-namespace GFrameworkGodotTemplate.scripts.tests;
+namespace SimpleCounter.scripts.tests;
 
 [ContextAware]
 [Log]
